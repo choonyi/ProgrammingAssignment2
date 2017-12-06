@@ -1,6 +1,10 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## The makeCacheMatrix function would make a special matrix
+## that keeps the cached Inverve of a Matrix. The cacheSolve would get
+## the inverse of matrix from cache if it is available or recompute one.
+
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
